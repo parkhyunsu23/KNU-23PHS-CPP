@@ -1,6 +1,3 @@
-﻿  lecture2.cpp
-C:\Users\박현수\OneDrive\Documents\lectures\KNU-23PHS-CPP\202302098 박현수\lecture2.cpp(10,10): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-C:\Users\박현수\OneDrive\Documents\lectures\KNU-23PHS-CPP\202302098 박현수\lecture2.cpp(10,10): message : 이 인수는 버퍼 크기로 사용됩니다.
-C:\Users\박현수\OneDrive\Documents\lectures\KNU-23PHS-CPP\202302098 박현수\lecture2.cpp(13,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-C:\Users\박현수\OneDrive\Documents\lectures\KNU-23PHS-CPP\202302098 박현수\lecture2.cpp(13,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+﻿  lecture3.cpp
+C:\Users\박현수\OneDrive\Documents\lectures\KNU-23PHS-CPP\202302098 박현수\lecture3.cpp(5,13): warning C4101: 'val_2' :참조되지 않은 지역 변수입니다.
   202302098 박현수.vcxproj -> C:\Users\박현수\OneDrive\Documents\lectures\KNU-23PHS-CPP\202302098 박현수\x64\Debug\202302098 박현수.exe
